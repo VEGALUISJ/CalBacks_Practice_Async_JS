@@ -4,7 +4,11 @@
   "description": "Trabajar con asincronismo en javascript",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node src/callbacks/index.js",
+    "callback:challenge": "node src/callbacks/challenge.js",
+    "promise": "node src/promise/index.js",
+    "promise:challenge": "node src/promise/challenge.js",
+    "async": "node src/async/index.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/VEGALUISJ/CalBacks_Practice_Async_JS/issues"
   },
-  "homepage": "https://github.com/VEGALUISJ/CalBacks_Practice_Async_JS#readme"
+  "homepage": "https://github.com/VEGALUISJ/CalBacks_Practice_Async_JS#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
