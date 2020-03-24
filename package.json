@@ -1,0 +1,24 @@
+{
+  "name": "curso_de_async",
+  "version": "1.0.0",
+  "description": "Trabajar con asincronismo en javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VEGALUISJ/CalBacks_Practice_Async_JS.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": " (MIT)",
+  "license": "(MIT)",
+  "bugs": {
+    "url": "https://github.com/VEGALUISJ/CalBacks_Practice_Async_JS/issues"
+  },
+  "homepage": "https://github.com/VEGALUISJ/CalBacks_Practice_Async_JS#readme"
+}
